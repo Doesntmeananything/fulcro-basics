@@ -1,4 +1,4 @@
-# Fulcro Basic
+# Fulcro Basics
 
 ## Currently Done
 
